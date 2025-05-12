@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Toan (Tona) and this is my personal workspace where im learning and develop my project :v
 
-I LOVE YOU
+                             "It works on my machine." — Every developer, ever.
 
 🤖 🚀 👨🏽‍💻 💫 😃 🗒 🤗 🎰 👾 ✨ 👻 🎭 🎫 🖋 🎯 😎 🙇
 
