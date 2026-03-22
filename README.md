@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Toan (Tona) and this is my personal workspace where im learning and develop my project :v
+## Hi there 👋 My name is Toan (Tom) and this is my personal workspace where im learning and develop my project :v
 
                              "It works on my machine." — Every developer, ever.
 
